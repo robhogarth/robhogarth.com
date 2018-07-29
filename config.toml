@@ -22,7 +22,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 [params.hero]
     enable = true
     avatar = "avatar.jpg"
-    subtitle = "Hi! I'm Rob, a IT Manager and Business Analyst from Sydney."
+    subtitle = "Hi! I'm Rob, a IT Manager and Business Analyst based in Central and Far West NSW."
     hero_right = ["**Currently doing consultancy work at Monpearte IT Solutions. Previously working at Peak Gold Mines as a Senior IT Officer.**", "I am passoinate about making IT departments bring real benefits and change through continual innovation of bussiness processes and workflows"]
     resume = "robhogarth_resume.docx"
 
