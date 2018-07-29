@@ -11,11 +11,10 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     favicon = "favicon.png"
     logo = "logo.png"
     email = "rob@robhogarth.com"
-    facebook = "lex.collado"
-    twitter = "lexiscollado"
-    dribbble = "alexiscollado"
+    facebook = "robhogarth"
+    twitter = "robhogarth"
     linkedin = "https://www.linkedin.com/in/rob-hogarth-5a19151/"
-    medium = "ahvccollado"
+
 
 [params.nav]
     enable = true
