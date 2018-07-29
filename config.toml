@@ -1,0 +1,4 @@
+baseURL = "http://robhogarth.com/"
+languageCode = "en-us"
+title = "Rob Hogarth"
+theme = "ananke"
