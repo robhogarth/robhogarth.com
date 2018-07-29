@@ -1,4 +1,4 @@
-baseURL = "robhogarth.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Rob Hogarth's Portfolio Website"
 theme = "hugo-lodi-theme"
