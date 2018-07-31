@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Rob Hogarth's Portfolio Website"
 theme = "hugo-lodi-theme"
 googleAnalytics = "UA-123121596-1"
+enableRobotsTXT = "true"
 
 [params]
     theme_color = "#574CDD"
