@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Rob Hogarth's Portfolio Website"
 theme = "hugo-lodi-theme"
-googleAnalytics = "UA-XXXXXXXX-Y"
+googleAnalytics = "UA-123121596-1"
 
 [params]
     theme_color = "#574CDD"
