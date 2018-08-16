@@ -31,6 +31,10 @@ enableRobotsTXT = "true"
     title = "My Approach"
     subtitle = "Providing real business benefit"
 
+[params.case_studies]
+    enable = true
+    title = "Case Studies"
+    subtitle = "Selected Works"
 
 [params.footer]
     enable = true
