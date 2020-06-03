@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rob Hogarth&#39;s Portfolio Website</title>
+    <link>/</link>
+    <description>Recent content on Rob Hogarth&#39;s Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Oct 2017 03:29:08 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>360 Pro | Alexis Collado</title>
+      <link>/360/</link>
+      <pubDate>Sun, 15 Oct 2017 03:29:08 -0700</pubDate>
+      
+      <guid>/360/</guid>
+      <description>The Challenge Meeting with Chappy Callanta of 360 Pro led us to discover the root problem — the implementation of their performance testing framework. The gym uses a Numbers document on one iPad to record all tests, and relies on inefficient manual procedures to do the work. The document calculates a total pro score based on an athlete&amp;rsquo;s performance for specific exercises, but the coach using it has to refer to several norms before assigning a pro score.</description>
+    </item>
+    
+    <item>
+      <title>Mill Control Systems Upgrade | Rob Hogarth</title>
+      <link>/millupgrade/</link>
+      <pubDate>Sun, 15 Oct 2017 03:29:08 -0700</pubDate>
+      
+      <guid>/millupgrade/</guid>
+      <description>The Challenge Risk analysis showed that the mill control system at Peak Gold Mines was amoung the oldest systems onsite. The servers were in fact repurposed desktop machines, which were long out of warranty. They contained no inbuilt redundancy such as RAID, redundant power supplies. The OS was Windows 7 and not a server OS. Due to the desktop OS version, backups were not compatible with the onsite backup systems, and were done Ad-Hoc.</description>
+    </item>
+    
+  </channel>
+</rss>
