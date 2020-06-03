@@ -175,7 +175,7 @@ section {
 
 .subtitle {
   font-size: 28px;
-  color: #5A54AF;
+  color: #6996CD;
   font-weight: 300;
 }
 
@@ -201,8 +201,8 @@ section {
 }
 
 .hero-right p a {
-  color: #574cdd;
-  text-decoration: underline;
+  color: #6996CD;
+  text-decoration: none;
 }
 
 .icons {
@@ -288,7 +288,7 @@ section {
 .process-item h3 {
   /* Discover: */
   font-size: 28px;
-  color: #5A54AF;
+  color: #6996CD;
   letter-spacing: 0;
 }
 
@@ -321,7 +321,7 @@ section {
 .case-study-item h5 {
   font-size: 13px;
   font-weight: 700;
-  color: #5A5A5A;
+  color: #6996CD;
   margin: 0;
   line-height: 0.3em;
   text-transform: uppercase;
@@ -505,8 +505,8 @@ section {
 }
 
 .content-case-study a {
-  color: #574cdd;
-  text-decoration: underline;
+  color: #6996CD;
+  text-decoration: none;
 }
 
 .content-case-study h1 {
@@ -593,7 +593,7 @@ section {
 }
 
 .active {
-  color: #574CDD !important;
+  color: #6996CD !important;
   transition: 0.2s ease-in-out;
   border-bottom: 3px solid #574CDD;
 }
